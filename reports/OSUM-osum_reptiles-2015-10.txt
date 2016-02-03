@@ -1,0 +1,125 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 233
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: United States ; Times: 44
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 5
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-10 ; Times: 13
+	Date: 2015-10-03 ; Times: 2
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-29 ; Times: 7
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-31 ; Times: 2
+	Date: 2015-10-26 ; Times: 7
+	Date: 2015-10-20 ; Times: 6
+	Date: 2015-10-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Colubridae stateprovince:&#34;Alabama&#34;" ; Times: 13
+	Query: "specificepithet:egregius genus:Plestiodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Regina stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "genus:Cemophora stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis OR sagrei genus:Anolis mappable:1 stateprovince:Florida county:Dade" ; Times: 1
+	Query: "eumeces michigan" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;New Mexico&#34; institutioncode:OSUM" ; Times: 2
+	Query: "specificepithet:Carolinensis genus:Anolis mappable:1 stateprovince:Florida county:Alachua" ; Times: 1
+	Query: "clonophis marion" ; Times: 5
+	Query: "sternotherus minor peltifer" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "specificepithet:Sagrei genus:Anolis mappable:1 stateprovince:Florida county:Monroe" ; Times: 1
+	Query: "Sistrurus catenatus type:specimen (Ohio)" ; Times: 1
+	Query: "eumeces egregius" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis mappable:1 stateprovince:Florida county:Monroe" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis mappable:1 stateprovince:Florida county:Dade" ; Times: 2
+	Query: "specificepithet:spiloides genus:pantherophis stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "regina septemvittata distance(location,geopoint(38.06539235133249,-84.5068359375))&lt;109678" ; Times: 1
+	Query: "Clemmys guttata stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "&#34;Virginia valeriae valeriae&#34;" ; Times: 1
+	Query: "neilli specificepithet:relicta genus:Tantilla" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Anolis mappable:1 stateprovince:Florida county:Dade" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Crotaphytus" ; Times: 1
+	Query: "Rhadinaea Florida" ; Times: 1
+	Query: "Clemmys guttata (Ohio )" ; Times: 1
+	Query: "genus:Lampropeltis family:Colubridae stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis mappable:1 stateprovince:Florida county:Marion" ; Times: 2
+	Query: "Sistrurus (tennessee)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 823 download events in this period)
+Total number of records downloaded: 470
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 4
+	Date: 2015-10-04 ; Times: 3
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-31 ; Times: 4
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Cophosaurus texanus" ; Times: 1
+	Query: "apalone ferox" ; Times: 2
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "tantilla coronata" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "aspidoscelis" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "type:specimen class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Sceloporus occidentalis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 4
+	Query: "Sceloporus poinsettii" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "Amboy" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "Cnemidophorus tesselatus" ; Times: 2
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+
+
+End of report.
