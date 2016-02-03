@@ -1,0 +1,91 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 119
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-21 ; Times: 2
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-29 ; Times: 25
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "west virginia opheodrys" ; Times: 1
+	Query: "specificepithet:odoratus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "eastern milk snake" ; Times: 1
+	Query: "genus:Pantherophis class:Reptilia distance(location,geopoint(32.37184274299271,-84.80003356933594))&lt;29581" ; Times: 1
+	Query: "sternotherus minor peltifer" ; Times: 1
+	Query: "Cyclura cychlura" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 22
+	Query: "Opheodrys aestivus west virginia" ; Times: 1
+	Query: "Clemmys muhlenbergii" ; Times: 1
+	Query: "Lampropeltis nigra" ; Times: 1
+	Query: "specificepithet:egregius family:Scincidae stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "Clemmys muhlenbergii (Jersey)" ; Times: 2
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "Williams 1955" ; Times: 1
+	Query: "class:reptilia county:&#34;Madison&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "morgan county heterodon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 889 download events in this period)
+Total number of records downloaded: 539
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-07 ; Times: 3
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-17 ; Times: 8
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-18 ; Times: 4
+	Date: 2015-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Kinosternon" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus class:Reptilia mappable:1" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Cyclura cychlura" ; Times: 1
+	Query: "Pantherophis obsoletus" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Nerodia cyclopion" ; Times: 1
+	Query: "Holbrookia approximans" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "sternotherus carinatus mississippi" ; Times: 2
+	Query: "Nerodia rhombifer" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "Lampropeltis getula" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+	Query: "Sceloporus woodi" ; Times: 1
+
+
+End of report.
