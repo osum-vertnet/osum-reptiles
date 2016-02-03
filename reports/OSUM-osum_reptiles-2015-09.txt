@@ -1,0 +1,98 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 331
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-13 ; Times: 4
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-04 ; Times: 5
+	Date: 2015-09-03 ; Times: 3
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "clonophis kirtlandii" ; Times: 2
+	Query: "Louisiana genus:Terrapene" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Crotalus adamanteus type:specimen" ; Times: 1
+	Query: "thamnophis stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: "Sistrurus catenatus Ohio" ; Times: 3
+	Query: "specificepithet:guttatus family:colubridae" ; Times: 1
+	Query: "Emydoidea blandingii type:specimen (Ohio) institutioncode:OSUM" ; Times: 2
+	Query: "clonophis county:&#34;Hamilton&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "lampropeltis zonata stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "crotalus pyrrhus" ; Times: 1
+	Query: "specificepithet:relicta genus:tantilla stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Elaphe [Pantherophis] obsoleta" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Pantherophis stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "trachemys scripta troostii" ; Times: 1
+	Query: "clonophis stateprovince:&#34;Ohio&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1045 download events in this period)
+Total number of records downloaded: 494
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 3
+	Date: 2015-09-04 ; Times: 6
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-08 ; Times: 2
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Louisiana genus:Terrapene" ; Times: 2
+	Query: "Elaphe obsoleta" ; Times: 2
+	Query: "Louisiana genus:Graptemys" ; Times: 2
+	Query: "Tantilla coronata" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "alsophis" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "reptile MCcurtain County" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Lampropeltis calligaster" ; Times: 1
+	Query: "Lampropeltis elapsoides" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Chionactis occipitalis" ; Times: 2
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "Pantherophis guttatus" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "caiman" ; Times: 2
+
+
+End of report.
