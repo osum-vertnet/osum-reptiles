@@ -1,0 +1,53 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 79
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-31 ; Times: 3
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "herpetofauna" ; Times: 2
+	Query: "septentrionalis oklahoma" ; Times: 1
+	Query: "Plestiodon fasciatus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 507 download events in this period)
+Total number of records downloaded: 52
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "plestiodon tetragrammus" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "sagrei" ; Times: 1
+
+
+End of report.
