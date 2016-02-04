@@ -1,0 +1,71 @@
+Report for Institution Code Ohio State University - Reptile Division, Columbus, OH (OSUM), Resource Reptiles
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 79
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "septentrionalis oklahoma" ; Times: 1
+	Query: "herpetofauna" ; Times: 2
+	Query: "Plestiodon fasciatus stateprovince:"Ohio"" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 507 download events in this period)
+Total number of records downloaded: 52 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 52
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "plestiodon tetragrammus" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "sagrei" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 52
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 7
+Total number of records retrieved from searches: 79
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 52
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
