@@ -1,0 +1,80 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 158
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 6
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-26 ; Times: 5
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 3
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "clonophis kirtlandii" ; Times: 5
+	Query: "Mammoth Cave stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;jefferson&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Wake&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; recordedby:WALKER" ; Times: 1
+	Query: "clonophis" ; Times: 2
+	Query: "farancia erytrogramma north carolina" ; Times: 3
+	Query: "anolis carolinensis stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "triangulum louisiana ouachita" ; Times: 1
+	Query: "tantilla oolitica" ; Times: 2
+	Query: "Glyptemys muhlenbergii specificepithet:muhlenbergii genus:Glyptemys family:Emydidae order:Testudines" ; Times: 1
+	Query: "mammoth cave" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 512 download events in this period)
+Total number of records downloaded: 492
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-26 ; Times: 6
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:reptilia country:Haiti" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:California" ; Times: 4
+	Query: "crotalus horridus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "anolis mappable:1" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "Cnemidophorus tigris" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Nevada" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+
+
+End of report.
