@@ -1,0 +1,103 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 178
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 5
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-30 ; Times: 2
+	Date: 2016-08-31 ; Times: 2
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Clonophis kirtlandii" ; Times: 2
+	Query: "clonophis kirtlandii" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "Coluber flagellum lineatulus" ; Times: 1
+	Query: "emys blandingii" ; Times: 1
+	Query: "Reptilia stateprovince:&#34;Louisiana&#34; institutioncode:OSUM" ; Times: 1
+	Query: "Plestiodon tetragrammus" ; Times: 1
+	Query: "OSUM Reptiles 877" ; Times: 1
+	Query: "class:reptilia locality:new hampshire" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Sternotherus peltifer" ; Times: 1
+	Query: "reptilia san juan new mexico" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "Horridus stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "Clonophis" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "crotalus san juan new mexico" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 924 download events in this period)
+Total number of records downloaded: 439
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-29 ; Times: 2
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-30 ; Times: 9
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudemys" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "anolis smaragdinus" ; Times: 1
+	Query: "Clonophis" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Sternotherus peltifer" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "anolis dominicensis" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "clonophis" ; Times: 1
+
+
+End of report.
