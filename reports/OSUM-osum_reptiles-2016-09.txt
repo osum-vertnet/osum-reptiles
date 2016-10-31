@@ -1,0 +1,69 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 223
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-11 ; Times: 2
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 4
+	Date: 2016-09-09 ; Times: 3
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Chamaeleo chamaeleon 1" ; Times: 2
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "Pantherophis vulpinus specificepithet:vulpinus genus:Pantherophis mappable:1" ; Times: 1
+	Query: "Chrysemys picta 1" ; Times: 1
+	Query: "sistrurus North Carolina" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "Archbold Biological Station class:Reptilia" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 2
+	Query: "gopherus berlandieri" ; Times: 1
+	Query: "Anolis sagrei 1" ; Times: 1
+	Query: "Anolis sagrei sagrei  1" ; Times: 1
+	Query: "Pantherophis spiloides specificepithet:spiloides genus:Pantherophis mappable:1" ; Times: 1
+	Query: "Graptemys geographica 1" ; Times: 1
+	Query: "Opheodrys vernalis stateprovince:&#34;Virginia&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 811 download events in this period)
+Total number of records downloaded: 11
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sistrurus North Carolina" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "Archbold Biological Station class:Reptilia" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "thailand" ; Times: 2
+
+
+End of report.
