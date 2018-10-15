@@ -1,0 +1,129 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 817
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: United Kingdom ; Times: 1
+	Country: Portugal ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-15 ; Times: 4
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 5
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-18 ; Times: 4
+	Date: 2018-02-06 ; Times: 6
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 5
+	Date: 2018-02-01 ; Times: 8
+	Date: 2018-02-27 ; Times: 15
+	Date: 2018-02-20 ; Times: 17
+	Date: 2018-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis hammondi stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Graptemys geographica mappable:1" ; Times: 5
+	Query: "tantilla oolitica" ; Times: 1
+	Query: "Lampropeltis triangulum Virginia" ; Times: 1
+	Query: "specificepithet:aestivus genus:opheodrys stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "Trachemys scripta elegans mappable:1" ; Times: 2
+	Query: "Trachemys scripta troostii mappable:1" ; Times: 3
+	Query: "specificepithet:mutica genus:apalone hassex:1" ; Times: 1
+	Query: "Crotalus molossus nigrescens" ; Times: 1
+	Query: "Plestiodon fasciatus Missouri" ; Times: 1
+	Query: "Crotalus lepidus klauberi" ; Times: 1
+	Query: "Graptemys pseudogeographica mappable:1" ; Times: 4
+	Query: "specificepithet:guttata genus:clemmys hassex:1" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:tetragrammus genus:plestiodon hassex:1" ; Times: 1
+	Query: "Nerodia sipedon pleuralis" ; Times: 1
+	Query: "institutioncode:OSUM cyclura" ; Times: 1
+	Query: "Chrysemys scripta mappable:1" ; Times: 4
+	Query: "genus:farancia erytrogramma stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:egregius genus:plestiodon hassex:1" ; Times: 1
+	Query: "class:reptilia county:&#34;stokes&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Tennessee&#34;" ; Times: 4
+	Query: "Elaphe guttata mappable:1" ; Times: 2
+	Query: "institutioncode:OSUM leiocephalus" ; Times: 1
+	Query: "specificepithet:equestris genus:anolis stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Trionyx ferox mappable:1" ; Times: 9
+	Query: "Lampropeltis triangulum delaware" ; Times: 1
+	Query: "specificepithet:coronata genus:Tantilla stateprovince:&#34;Carolina&#34;" ; Times: 1
+	Query: "haldea striatula" ; Times: 2
+	Query: "elaphe guttatus" ; Times: 1
+	Query: "genus:clonophis hassex:1" ; Times: 1
+	Query: "vernalis blanchardi" ; Times: 1
+	Query: "institutioncode:OSUM typhlops" ; Times: 1
+	Query: "Reptilia Hickman county Tennessee" ; Times: 2
+	Query: "clonophis kirtlandii" ; Times: 8
+	Query: "genus:Tropidoclonion hassex:1" ; Times: 1
+	Query: "specificepithet:coronata genus:Tantilla stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Glyptemys stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "B-1357" ; Times: 1
+	Query: "turcicus key west" ; Times: 2
+	Query: "genus:bogertophis hassex:1" ; Times: 1
+	Query: "genus:rhineura hassex:1" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 4
+	Query: "institutioncode:OSUM leiolopisma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1892 download events in this period)
+Total number of records downloaded: 503
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-26 ; Times: 3
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-01 ; Times: 5
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "clonophis kirtlandii" ; Times: 1
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "specificepithet:sipedon genus:nerodia hassex:1" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "nerodia fasciata pictiventris" ; Times: 1
+	Query: "reptile michigan" ; Times: 2
+	Query: "genus:Arizona" ; Times: 1
+	Query: "seminatrix pygaea" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "genus:storeria hassex:1" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene hassex:1" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "haldea striatula" ; Times: 1
+	Query: "Nerodia sipedon pleuralis" ; Times: 1
+	Query: "vernalis blanchardi" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Masticophis flagellum piceus" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 1
+
+
+End of report.
