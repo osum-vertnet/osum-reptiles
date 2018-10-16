@@ -1,0 +1,93 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 362
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 71
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-28 ; Times: 7
+	Date: 2018-03-09 ; Times: 3
+	Date: 2018-03-26 ; Times: 13
+	Date: 2018-03-27 ; Times: 7
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-23 ; Times: 20
+	Date: 2018-03-20 ; Times: 2
+	Date: 2018-03-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Apalone specificepithet:spinifera" ; Times: 2
+	Query: "genus:sistrurus stateprovince:&#34;north Carolina&#34;" ; Times: 2
+	Query: "sistrurus (illinois)" ; Times: 10
+	Query: "genus:Charina specificepithet:bottae" ; Times: 2
+	Query: "West Virginia Crotalus" ; Times: 1
+	Query: "genus:Crotalus specificepithet:molossus" ; Times: 2
+	Query: "genus:Opheodrys specificepithet:vernalis" ; Times: 2
+	Query: "genus:Sceloporus locality:furnace" ; Times: 1
+	Query: "genus:Rhineura specificepithet:floridana" ; Times: 5
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "genus:Farancia specificepithet:erytrogramma" ; Times: 5
+	Query: "genus:Ctenosaura specificepithet:hemilopha" ; Times: 2
+	Query: "genus:Tropidophis specificepithet:canus" ; Times: 5
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 2
+	Query: "Clonophis kirtlandii stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Thamnophis sirtalis jefferson" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "clonophis kirtlandii" ; Times: 6
+	Query: "genus:Clemmys specificepithet:guttata" ; Times: 6
+	Query: "specificepithet:guttata genus:Clemmys stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Tantilla specificepithet:relicta" ; Times: 2
+	Query: "genus:sistrurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Kinosternon specificepithet:integrum" ; Times: 2
+	Query: "clonophis" ; Times: 1
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1284 download events in this period)
+Total number of records downloaded: 232
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-25 ; Times: 3
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "clonophis kirtlandii" ; Times: 2
+	Query: "israel" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Thamnophis sirtalis infernalis" ; Times: 1
+	Query: "specificepithet:amoenus genus:Carphophis mappable:1" ; Times: 4
+	Query: "specificepithet:turcicus genus:Hemidactylus country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Pelomedusa" ; Times: 1
+
+
+End of report.
