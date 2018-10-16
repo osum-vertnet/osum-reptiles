@@ -1,0 +1,98 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 93
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-16 ; Times: 5
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-21 ; Times: 3
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Opheodrys aestivus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "emys blandingii" ; Times: 3
+	Query: "bogertophis subocularis" ; Times: 1
+	Query: "specificepithet:guttata genus:clemmys stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "crotalus lepidus klauberi stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "specificepithet:anthracinus genus:Plestiodon stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "graptemys kohnii" ; Times: 2
+	Query: "vntype:specimen genus:Trachemys institutioncode:OSUM" ; Times: 1
+	Query: "genus:Chrysemys stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "Graptemys kohnii" ; Times: 1
+	Query: "specificepithet:altirostris genus:micrurus" ; Times: 2
+	Query: "Graptemys pseudogeographica kohnii" ; Times: 1
+	Query: "crotalus lepidus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:scincella stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "virginia valeriae cameron" ; Times: 1
+	Query: "cyclura rileyi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1359 download events in this period)
+Total number of records downloaded: 71
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Israel ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 7
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:guttata genus:clemmys stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "emys blandingii" ; Times: 1
+	Query: "genus:Coluber sex:male OR female" ; Times: 1
+	Query: "Rhineura floridana mappable:1" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:Sceloporus sex:male OR female" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "genus:Pantherophis sex:male OR female" ; Times: 2
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+
+
+End of report.
