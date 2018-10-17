@@ -1,0 +1,120 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 309
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-09 ; Times: 2
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-15 ; Times: 6
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mitchellii genus:crotalus stateprovince:&#34;california&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "institutioncode:osum Crotalus adamanteus" ; Times: 1
+	Query: "institutioncode:osum Crotalus" ; Times: 1
+	Query: "dissectus" ; Times: 1
+	Query: "family:Chamaeleonidae institutioncode:OSUM" ; Times: 1
+	Query: "gbifdatasetid:51fa0155-a545-4154-ac20-b89dbb2c312b" ; Times: 1
+	Query: "Reptilia Ohio County West Virginia" ; Times: 1
+	Query: "genus:Alligator institutioncode:OSUM" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "institutioncode:osum Alligator" ; Times: 1
+	Query: "sceloporus undulatus stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "institutioncode:osum Alligator alligator" ; Times: 1
+	Query: "glyptemys muhlenbergii" ; Times: 1
+	Query: "Crotalus horridus Adams (Ohio )" ; Times: 1
+	Query: "specificepithet:Sexlineatus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Sternotherus minor Tennessee" ; Times: 2
+	Query: "Vipera" ; Times: 3
+	Query: "genus:Lampropeltis county:&#34;Stark&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "micrurus altirostris" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;virginia&#34; (&#34;Montgomery&#34; OR &#34;Pulaski&#34; OR &#34;Floyd&#34; OR &#34;Roanoke&#34; OR &#34;Giles&#34; OR &#34;Craig&#34; OR &#34;Franklin&#34;)" ; Times: 1
+	Query: "Sternotherus carinatus Mississippi" ; Times: 2
+	Query: "carinatus Jones County Mississippi" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "Vernalis maine" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1169 download events in this period)
+Total number of records downloaded: 291
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-06 ; Times: 6
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-08 ; Times: 2
+	Date: 2018-06-18 ; Times: 5
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-09 ; Times: 2
+	Date: 2018-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "class:reptilia locality:baker" ; Times: 2
+	Query: "plestiodon tetragrammus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "Crotalus viridis; CO" ; Times: 1
+	Query: "Plestiodon fasciatus" ; Times: 1
+	Query: "specificepithet:lineatum genus:Tropidoclonion" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 2
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "Sternotherus carinatus Mississippi" ; Times: 2
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 1
+
+
+End of report.
