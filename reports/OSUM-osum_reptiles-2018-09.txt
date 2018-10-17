@@ -1,0 +1,104 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 83
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Sweden ; Times: 21
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-04 ; Times: 4
+	Date: 2018-09-16 ; Times: 11
+	Date: 2018-09-15 ; Times: 7
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sistrurus stateprovince:&#34;Tennessee&#34;" ; Times: 14
+	Query: "Agkistrodon county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; Apalone spinifera" ; Times: 1
+	Query: "Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rhadinaea Florida" ; Times: 1
+	Query: "jefferson triangulum" ; Times: 3
+	Query: "genus:Agkistrodon county:&#34;Blount&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus mappable:1 stateprovince:Arizona" ; Times: 4
+	Query: "Elaphe emoryi" ; Times: 1
+	Query: "Regina erie Ohio" ; Times: 1
+	Query: "sistrurus miliarius louisiana" ; Times: 2
+	Query: "Sternotherus carinatus stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "genus:Agkistrodon county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 846 download events in this period)
+Total number of records downloaded: 3154
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: United Kingdom ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 5
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 14
+	Date: 2018-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "family:Dipsadidae" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "sistrurus miliarius louisiana" ; Times: 1
+	Query: "Dipsadidae" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "sceloporus tristichus" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 1
+	Query: "class:Reptilia hassex:1 hasmass:1" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 2
+
+
+End of report.
