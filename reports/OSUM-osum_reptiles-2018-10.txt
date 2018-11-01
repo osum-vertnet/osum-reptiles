@@ -1,0 +1,119 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 297
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Sweden ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 2
+	Date: 2018-10-22 ; Times: 5
+	Date: 2018-10-26 ; Times: 4
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-02 ; Times: 6
+	Date: 2018-10-03 ; Times: 6
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-13 ; Times: 2
+	Date: 2018-10-12 ; Times: 2
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-10 ; Times: 9
+	Date: 2018-10-17 ; Times: 6
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-15 ; Times: 3
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:miliarius genus:Sistrurus family:Viperidae stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Wilcox institutioncode:OSUM" ; Times: 1
+	Query: "Graptemys Smyth" ; Times: 12
+	Query: "genus:Clonophis" ; Times: 1
+	Query: "family:Cheloniidae institutioncode:OSUM" ; Times: 1
+	Query: "Thompson institutioncode:OSUM" ; Times: 2
+	Query: "Nerodia Erythrogaster Ohio" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Ohio&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Blount&#34; stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Erythrogaster Ohio" ; Times: 1
+	Query: "glyptemys muhlenbergii" ; Times: 4
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Grant institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "genus:Farancia county:&#34;Okeechobee&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "kirtlandii stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sternotherus carinatus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Stein institutioncode:OSUM" ; Times: 1
+	Query: "Mitchell institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lampropeltis getula brooksi" ; Times: 1
+	Query: "genus:phrynosoma county:&#34;taylor&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Kirtlandii institutioncode:OSUM" ; Times: 4
+	Query: "stein institutioncode:OSUM" ; Times: 1
+	Query: "Lampropeltis nigra" ; Times: 1
+	Query: "R. A. Young institutioncode:OSUM" ; Times: 1
+	Query: "reptilia county:&#34;Lorain&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1300 download events in this period)
+Total number of records downloaded: 553
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 3
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-25 ; Times: 5
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-19 ; Times: 3
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Opheodrys" ; Times: 1
+	Query: "San Luis Potosí reptiles" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Anolis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 2
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "heterodon platyrhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "Caiman crocodilus" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "pseudemys floridana" ; Times: 1
+	Query: "Nerodia rhombifera" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis country:&#34;United States&#34;" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "reptile baja california" ; Times: 1
+	Query: "locality:OH" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
