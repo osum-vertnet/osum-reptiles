@@ -1,0 +1,73 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 15
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-07 ; Times: 1
+	Date: 2018-11-12 ; Times: 3
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-09 ; Times: 2
+	Date: 2018-11-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "agkistrodon laticinctus" ; Times: 1
+	Query: "11 November 1946" ; Times: 1
+	Query: "crotalus lepidus klauberi" ; Times: 2
+	Query: "lampropeltis triangulum virginia" ; Times: 2
+	Query: "Heloderma suspectum" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1719 download events in this period)
+Total number of records downloaded: 548
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 7
+	Country: Belgium ; Times: 1
+	Country: South Korea ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 2
+	Date: 2018-11-09 ; Times: 1
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 3
+	Date: 2018-11-12 ; Times: 2
+	Date: 2018-11-01 ; Times: 1
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-28 ; Times: 2
+	Date: 2018-11-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "Iguana iguana" ; Times: 2
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "genus:Opheodrys" ; Times: 2
+	Query: "family:Viperidae" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Chionactis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+
+
+End of report.
