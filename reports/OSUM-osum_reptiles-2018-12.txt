@@ -1,0 +1,86 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 157
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 5
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-27 ; Times: 6
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-30 ; Times: 2
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-29 ; Times: 1
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-13 ; Times: 5
+	Date: 2018-12-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "triangulum md" ; Times: 1
+	Query: "specificepithet:texanus genus:cophosaurus county:&#34;brewster&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reptilia louisiana claiborne" ; Times: 2
+	Query: "viperidae institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Reptilia Louisiana caddo" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "Clemmys muhlenbergii" ; Times: 3
+	Query: "specificepithet:equestris genus:Anolis hassex:1" ; Times: 1
+	Query: "Elapidae institutioncode:OSUM" ; Times: 1
+	Query: "Tantilla oolitica" ; Times: 6
+	Query: "Vipera institutioncode:OSUM" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reptilia Texas sabine" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 809 download events in this period)
+Total number of records downloaded: 753
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 5
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "vntype:specimen class:reptilia AND (NOT PARATYPE) hastypestatus:1" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+
+
+End of report.
