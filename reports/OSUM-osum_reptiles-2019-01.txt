@@ -1,0 +1,100 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 209
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: United Kingdom ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 2
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-05 ; Times: 3
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 3
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-08 ; Times: 3
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-19 ; Times: 22
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-30 ; Times: 4
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Reptilia south carolina orangeburg" ; Times: 1
+	Query: "Reptilia Arkansas ouachita" ; Times: 4
+	Query: "Reptilia Oklahoma pushmataha" ; Times: 1
+	Query: "( Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:OSUM" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 2
+	Query: "gbifdatasetid:51fa0155-a545-4154-ac20-b89dbb2c312b" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "Pseudemys rubriventris" ; Times: 1
+	Query: "Crotalus pyrrhus" ; Times: 2
+	Query: "Crotalus mitchellii pyrrhus" ; Times: 9
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "reptilia arkansas clark" ; Times: 1
+	Query: "sistrurus wood" ; Times: 1
+	Query: "emys" ; Times: 2
+	Query: "reptilia arkansas grant" ; Times: 1
+	Query: "Deirochelys" ; Times: 2
+	Query: "Bitis nasicornis" ; Times: 2
+	Query: "Vernalis wisconsin" ; Times: 15
+	Query: "rhineura" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "201946" ; Times: 1
+	Query: "genus:coluber locality:8" ; Times: 1
+	Query: "clemmys indiana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 962 download events in this period)
+Total number of records downloaded: 2562
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Iran ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "zootoca vivipara" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "gbifdatasetid:51fa0155-a545-4154-ac20-b89dbb2c312b" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "Tropidoclonion" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 1
+	Query: "class:reptilia county:&#34;tompkins&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+
+
+End of report.
