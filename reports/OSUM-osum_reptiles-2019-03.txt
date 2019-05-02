@@ -1,0 +1,122 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 405
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: United Kingdom ; Times: 22
+	Country: Sweden ; Times: 10
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 10
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-26 ; Times: 3
+	Date: 2019-03-30 ; Times: 5
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-25 ; Times: 3
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-14 ; Times: 6
+	Date: 2019-03-15 ; Times: 20
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 3
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:reptilia county:&#34;huron&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Rhadinaea flavilata" ; Times: 1
+	Query: "Kirtlandii county:&#34;Lucas&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 1
+	Query: "Mutica missouri" ; Times: 1
+	Query: "Reptilia Alabama Tuscaloosa" ; Times: 3
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tropidophis canus" ; Times: 1
+	Query: "Tantilla relicta" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Kentucky&#34; institutioncode:OSUM" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Farancia erytrogramma" ; Times: 1
+	Query: "class:reptilia county:&#34;ottawa&#34; stateprovince:&#34;ohio&#34; AND (sirtalis)" ; Times: 1
+	Query: "K Adler ohio" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;ohio&#34; institutioncode:OSUM" ; Times: 1
+	Query: "Thamnophis butleri" ; Times: 1
+	Query: "class:Reptilia county:&#34;Lucas&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Haldea striatula" ; Times: 1
+	Query: "Lampropeltis elapsoides" ; Times: 1
+	Query: "Pantherophis vulpinus" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Blount&#34; stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; country:&#34;United States&#34; year &lt;= 1970" ; Times: 1
+	Query: "erythrogaster ohio" ; Times: 2
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "Micrurus altirostris" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "trionyx muticus arkansas" ; Times: 1
+	Query: "Pseudemys AL" ; Times: 1
+	Query: "genus:kinosternon distance(location,geopoint(23.924813398230597,-102.66276822745749))&lt;100000" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "apalone mutica arkansas" ; Times: 1
+	Query: "nerodia erythrogaster ohio" ; Times: 2
+	Query: "20284" ; Times: 1
+	Query: "crotalus pyrrhus" ; Times: 2
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "Typhlops lumbricalis" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Blount&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Kirtlandii county:&#34;Hamilton&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Pseudemys Pike County" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Micrurus frontalis" ; Times: 1
+	Query: "Tantilla oolitica" ; Times: 1
+	Query: "Lampropeltis nigra" ; Times: 2
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Bogertophis subocularis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1281 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-25 ; Times: 3
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-04 ; Times: 5
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eumeces septentrionalis" ; Times: 1
+	Query: "Leiocephalus carinatus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis" ; Times: 1
+	Query: "genus:Arizona stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "apalone mutica arkansas" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "crotaphytus reticulatus" ; Times: 1
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "trionyx muticus arkansas" ; Times: 1
+
+
+End of report.
