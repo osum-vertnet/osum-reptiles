@@ -1,0 +1,125 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 352
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 60
+	Country: Brazil ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: France ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-23 ; Times: 6
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-27 ; Times: 2
+	Date: 2019-06-06 ; Times: 3
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 42
+	Date: 2019-06-10 ; Times: 6
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-28 ; Times: 2
+	Date: 2019-06-14 ; Times: 1
+	Date: 2019-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Nerodia specificepithet:cyclopion" ; Times: 2
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "genus:Anguis" ; Times: 1
+	Query: "genus:Apalone specificepithet:spinifera" ; Times: 1
+	Query: "OSUM 2335" ; Times: 1
+	Query: "genus:Cemophora specificepithet:coccinea" ; Times: 1
+	Query: "specificepithet:carinatus genus:sternotherus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:Clemmys specificepithet:guttata" ; Times: 1
+	Query: "genus:Lampropeltis specificepithet:californiae" ; Times: 1
+	Query: "genus:tropidophis locality:andros" ; Times: 3
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Zootoca specificepithet:vivipara" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "family:scincidae locality:wake country:&#34;united states&#34;" ; Times: 1
+	Query: "genus:Typhlops specificepithet:lumbricalis" ; Times: 1
+	Query: "genus:Kinosternon specificepithet:baurii" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:egregius" ; Times: 1
+	Query: "genus:Crotalus specificepithet:molossus" ; Times: 1
+	Query: "genus:Opheodrys specificepithet:vernalis" ; Times: 1
+	Query: "genus:Rhineura specificepithet:floridana" ; Times: 2
+	Query: "tropidophis canus" ; Times: 3
+	Query: "genus:Plestiodon specificepithet:tetragrammus" ; Times: 1
+	Query: "genus:Rhadinaea specificepithet:flavilata" ; Times: 1
+	Query: "Mutica missouri" ; Times: 2
+	Query: "genus:Trachemys stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:Chamaeleo specificepithet:chamaeleon" ; Times: 1
+	Query: "specificepithet:Contortrix genus:Agkistrodon stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "osum 2335" ; Times: 1
+	Query: "genus:Ctenosaura specificepithet:hemilopha" ; Times: 2
+	Query: "lampropeltis Alabama" ; Times: 1
+	Query: "genus:Tropidophis specificepithet:canus" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 3
+	Query: "Micrurus altirostris" ; Times: 1
+	Query: "genus:Clonophis specificepithet:kirtlandii" ; Times: 1
+	Query: "genus:Bogertophis specificepithet:subocularis" ; Times: 1
+	Query: "genus:Graptemys specificepithet:geographica" ; Times: 1
+	Query: "genus:Urosaurus specificepithet:graciosus" ; Times: 1
+	Query: "genus:Regina specificepithet:septemvittata" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 1
+	Query: "Sternotherus carinatus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:clonophis stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "elaphe vulpina" ; Times: 1
+	Query: "specificepithet:zonata genus:lampropeltis" ; Times: 1
+	Query: "catalognumber:2335 institutioncode:OSUM" ; Times: 1
+	Query: "genus:Tantilla specificepithet:relicta" ; Times: 1
+	Query: "genus:Eumeces specificepithet:laticeps" ; Times: 1
+	Query: "class:reptilia locality:wake" ; Times: 1
+	Query: "genus:Glyptemys specificepithet:insculpta" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:anthracinus" ; Times: 1
+	Query: "genus:Farancia specificepithet:erytrogramma" ; Times: 1
+	Query: "bitis nasicornis" ; Times: 1
+	Query: "genus:Kinosternon specificepithet:integrum" ; Times: 1
+	Query: "genus:Deirochelys specificepithet:reticularia" ; Times: 1
+	Query: "genus:Virginia specificepithet:valeriae" ; Times: 1
+	Query: "genus:Emydoidea specificepithet:blandingii" ; Times: 1
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1182 download events in this period)
+Total number of records downloaded: 193
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 7
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-01 ; Times: 1
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-08 ; Times: 2
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Tupinambis teguixin" ; Times: 2
+	Query: "specificepithet:catenatus genus:sistrurus" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Farancia" ; Times: 1
+
+
+End of report.
