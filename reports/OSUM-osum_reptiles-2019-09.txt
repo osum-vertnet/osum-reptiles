@@ -1,0 +1,112 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 280
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 4
+	Date: 2019-09-20 ; Times: 5
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-25 ; Times: 3
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 3
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 6
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-01 ; Times: 1
+	Date: 2019-09-07 ; Times: 3
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Kentucky&#34; institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:nigropunctatus genus:Sphaerodactylus institutioncode:OSUM" ; Times: 3
+	Query: "genus:Sistrurus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "osum reptile" ; Times: 1
+	Query: "Crotalus lepidus klauberi" ; Times: 1
+	Query: "specificepithet:mutica genus:apalone stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sphaerodactylus institutioncode:OSUM" ; Times: 8
+	Query: "graptemys kohnii" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;New Hampshire&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Calhoun&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Reptiles Macon county alabama" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:OSUM" ; Times: 5
+	Query: "Micrurus altirostris" ; Times: 2
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "plestiodon egregius georgia" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT CAS NOT LACM NOT SDMNH NOT MVZ NOT USNM NOT KU NOT CM)" ; Times: 1
+	Query: "Clonophis" ; Times: 1
+	Query: "specificepithet:notatus genus:Sphaerodactylus institutioncode:OSUM" ; Times: 3
+	Query: "genus:Sistrurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "&#34;farancia erytrogramma&#34; &#34;north carolina&#34;" ; Times: 2
+	Query: "kirtlandii AND (herp)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1073 download events in this period)
+Total number of records downloaded: 196
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Brunei ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 13
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-11 ; Times: 3
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-19 ; Times: 3
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "Reptilia Missouri" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 2
+	Query: "genus:Arizona" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Opheodrys" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "Tantilla relicta" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+
+
+End of report.
