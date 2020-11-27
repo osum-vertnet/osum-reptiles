@@ -1,0 +1,140 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 717
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Unknown ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 2
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 6
+	Date: 2020-05-06 ; Times: 7
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-09 ; Times: 4
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "apalone spinifera perry" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1623 institutioncode:OSUM" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1393 institutioncode:OSUM" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1845 institutioncode:OSUM" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "class:reptilia institutioncode:OSUM" ; Times: 4
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "specificepithet:spinifera genus:Apalone stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "sistrurus miliarius louisiana" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Duval&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Tennessee&#34;" ; Times: 6
+	Query: "sistrurus north carolina" ; Times: 1
+	Query: "specificepithet:laticeps genus:Eumeces stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1524 institutioncode:OSUM" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:2176 institutioncode:OSUM" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1745 institutioncode:OSUM" ; Times: 1
+	Query: "genus:Terrapene stateprovince:&#34;Ohio&#34; institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "genus:Opheodrys county:&#34;Clinton&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "catalognumber:1014 institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:1277 institutioncode:OSUM" ; Times: 2
+	Query: "anolis carolinensis mississippi" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:2076 institutioncode:OSUM" ; Times: 1
+	Query: "genus:Clemmys stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "genus:Sceloporus specificepithet:occidentalis stateprovince:Utah" ; Times: 3
+	Query: "genus:Terrapene stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "chelydra holmes" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria county:&#34;Summit&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "genus:Plestiodon county:&#34;Trumbull&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "sistrurus ohio" ; Times: 1
+	Query: "201535" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1060 institutioncode:OSUM" ; Times: 1
+	Query: "Thamnophis hammondi" ; Times: 1
+	Query: "plestiodon anthracinus anthracinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "303096" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1639 institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:Graptemys stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "Tantilla oolitica" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1649 institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Jackson&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:butleri genus:Thamnophis stateprovince:&#34;Ohio&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1106 download events in this period)
+Total number of records downloaded: 473
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 26
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-16 ; Times: 3
+	Date: 2020-05-08 ; Times: 6
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "Arizona elegans" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "genus:Clemmys stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Thamnophis hammondi" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Sceloporus woodi" ; Times: 1
+	Query: "Tantilla oolitica" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+
+
+End of report.
