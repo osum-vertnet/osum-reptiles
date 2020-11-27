@@ -1,0 +1,187 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 256
+Number of records retrieved in searches: 619
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 237
+	Country: Unknown ; Times: 13
+	Country: Australia ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 4
+	Date: 2020-04-05 ; Times: 12
+	Date: 2020-04-06 ; Times: 4
+	Date: 2020-04-07 ; Times: 11
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-23 ; Times: 6
+	Date: 2020-04-20 ; Times: 62
+	Date: 2020-04-21 ; Times: 30
+	Date: 2020-04-01 ; Times: 13
+	Date: 2020-04-02 ; Times: 8
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-28 ; Times: 4
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-19 ; Times: 18
+	Date: 2020-04-18 ; Times: 10
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-17 ; Times: 12
+	Date: 2020-04-16 ; Times: 17
+	Date: 2020-04-15 ; Times: 16
+	Date: 2020-04-14 ; Times: 12
+	Date: 2020-04-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:heterodon stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Glyptemys insculpta" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:amoenus genus:Carphophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:insculpta genus:Glyptemys" ; Times: 4
+	Query: "genus:Coluber class:Reptilia county:&#34;Greenville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:107 institutioncode:OSUM" ; Times: 2
+	Query: "genus:Carphophis class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Glyptemys insculpta." ; Times: 10
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;New Hampshire&#34;" ; Times: 1
+	Query: "plestiodon fasciatus mississippi" ; Times: 1
+	Query: "heterodon stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "genus:Sternotherus class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "scincella lateralis mississippi" ; Times: 1
+	Query: "specificepithet:odoratus genus:Sternotherus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:carinatus genus:sternotherus county:&#34;ouachita&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:opheodrys stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "Haldea striatula" ; Times: 2
+	Query: "scincella lateralis louisiana" ; Times: 1
+	Query: "genus:Clonophis stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "(chrysemys concinna)" ; Times: 4
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Greenville&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "anolis carolinensis mississippi" ; Times: 1
+	Query: "class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34; AND (NOT NCSM NOT PSM NOT MCZ NOT USNM)" ; Times: 2
+	Query: "genus:Diadophis stateprovince:&#34;New Hampshire&#34;" ; Times: 2
+	Query: "Caiman crocodilus" ; Times: 3
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 5
+	Query: "class:Reptilia county:&#34;Gates&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "coluber flagellum louisiana" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 4
+	Query: "Glyptemys insculpta" ; Times: 140
+	Query: "specificepithet:subrubrum genus:Kinosternon class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "crotalus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "genus:Agkistrodon stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "genus:Tantilla class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "crotalus county:&#34;wood&#34; stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia stateprovince:&#34;Delaware&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34; AND (NOT NCSM NOT PSM NOT MCZ NOT USNM) institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:subrubrum genus:Kinosternon class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "recordedby:w. w. price" ; Times: 1
+	Query: "aestivus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:storeria stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "Sternotherus odoratus mississippi" ; Times: 1
+	Query: "class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34; institutioncode:OSUM" ; Times: 1
+	Query: "Graptemys wood county" ; Times: 1
+	Query: "201024" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 18
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Pender&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1171 download events in this period)
+Total number of records downloaded: 334
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 12
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 35
+	Country: Netherlands ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 2
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-10 ; Times: 5
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-20 ; Times: 3
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-03 ; Times: 5
+	Date: 2020-04-06 ; Times: 5
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 15
+	Date: 2020-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:skiltonianus genus:Eumeces" ; Times: 1
+	Query: "emydoidea" ; Times: 3
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "specificepithet:spiloides genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tantilla relicta" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "specificepithet:mitchellii genus:Crotalus" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "Charina bottae" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "specificepithet:hernandesi genus:Phrynosoma" ; Times: 2
+	Query: "specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "Haldea striatula" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 2
+	Query: "class:Reptilia county:&#34;Greenville&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "specificepithet:butleri genus:Thamnophis" ; Times: 1
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "Sceloporus tristichus" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "Pseudemys peninsularis" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 2
+	Query: "cheloniidae mydas sex" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+
+
+End of report.
