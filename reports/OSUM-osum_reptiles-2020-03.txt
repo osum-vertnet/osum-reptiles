@@ -1,0 +1,135 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 595
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Unknown ; Times: 7
+	Country: Ukraine ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-22 ; Times: 7
+	Date: 2020-03-27 ; Times: 5
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 3
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-21 ; Times: 11
+	Date: 2020-03-19 ; Times: 4
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-13 ; Times: 6
+	Date: 2020-03-29 ; Times: 2
+	Date: 2020-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:odoratus genus:Sternotherus county:&#34;Franklin&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "(202384)" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "clemmys guttata stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 4
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Scincella stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:coccinea genus:Cemophora stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "genus:Alligator class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Scincidae institutioncode:OSUM" ; Times: 5
+	Query: "specificepithet:subrubrum genus:Kinosternon class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:odoratus genus:Sternotherus family:Kinosternidae stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Putnam&#34; stateprovince:&#34;Florida&#34; AND (NOT UF)" ; Times: 1
+	Query: "specificepithet:coronata genus:Tantilla stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Sternotherus class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Sceloporus class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:Mitchellii genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anolis angusticeps" ; Times: 2
+	Query: "genus:Opheodrys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:nigra genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:striatula genus:Virginia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 853 download events in this period)
+Total number of records downloaded: 398
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: United States ; Times: 25
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-02 ; Times: 3
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-13 ; Times: 6
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:blandingii" ; Times: 1
+	Query: "specificepithet:woodi genus:sceloporus" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus" ; Times: 1
+	Query: "specificepithet:californiae genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis" ; Times: 1
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:subocularis genus:Bogertophis" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria" ; Times: 1
+	Query: "genus:Cemophora" ; Times: 1
+	Query: "specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "specificepithet:nigra genus:Lampropeltis" ; Times: 1
+
+
+End of report.
