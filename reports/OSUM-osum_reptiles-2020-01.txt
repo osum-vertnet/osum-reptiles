@@ -1,0 +1,110 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 490
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: United Kingdom ; Times: 4
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-02 ; Times: 4
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-20 ; Times: 6
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-11 ; Times: 7
+	Date: 2020-01-27 ; Times: 4
+	Date: 2020-01-13 ; Times: 3
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "picta Chrysemys" ; Times: 3
+	Query: "tantilla oolitica" ; Times: 2
+	Query: "specificepithet:nigropunctatus genus:Sphaerodactylus institutioncode:OSUM" ; Times: 4
+	Query: "class:reptilia locality:wake" ; Times: 3
+	Query: "county:&#34;Lawrence&#34; stateprovince:&#34;Ohio&#34;" ; Times: 5
+	Query: "specificepithet:angusticeps genus:anolis" ; Times: 1
+	Query: "Phrynosoma ornatissimum" ; Times: 1
+	Query: "Reptilia troostii" ; Times: 1
+	Query: "blandingii Emydoidea" ; Times: 1
+	Query: "genus:Crotalus institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sphaerodactylus institutioncode:OSUM" ; Times: 4
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:OSUM" ; Times: 6
+	Query: "genus:Sceloporus locality:Furnace" ; Times: 1
+	Query: "Crotalus (ohio)" ; Times: 3
+	Query: "Emydoidea blandingii mappable:1" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "specificepithet:notatus genus:Sphaerodactylus institutioncode:OSUM" ; Times: 4
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "Lampropeltis triangulum elapsoides" ; Times: 1
+	Query: "Apalone spinifera Texas" ; Times: 1
+	Query: "Crotalus horridus horridus ohio" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Clemmys guttata mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1584 download events in this period)
+Total number of records downloaded: 172
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 27
+	Country: China ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-31 ; Times: 5
+	Date: 2020-01-25 ; Times: 9
+	Date: 2020-01-24 ; Times: 7
+	Date: 2020-01-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Leiocephalus carinatus" ; Times: 1
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Sphaerodactylus cinereus" ; Times: 1
+	Query: "Sphaerodactylus notatus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "Sphaerodactylus nigropunctatus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Plestiodon egregius" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Phrynosoma ornatissimum" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus" ; Times: 1
+	Query: "Chamaeleo chamaeleon" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Holbrookia approximans" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Sceloporus tristichus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Sceloporus woodi" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+
+
+End of report.
