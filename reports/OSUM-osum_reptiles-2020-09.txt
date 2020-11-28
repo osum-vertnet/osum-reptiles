@@ -1,0 +1,93 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 112
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Taiwan ; Times: 2
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-18 ; Times: 5
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Clonophis county:&#34;Hamilton&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Phrynosoma ornatissimum" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:OSUM" ; Times: 2
+	Query: "Glyptemys muhlenbergii" ; Times: 3
+	Query: "specificepithet:VERNALIS genus:OPHEODRYS stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "order:Testudines county:&#34;Dooly&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Tennessee&#34;" ; Times: 4
+	Query: "Clonophis stateprovince:&#34;Ohio&#34;" ; Times: 3
+	Query: "Elaphe guttatus" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "genus:crotalus stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "Graptemys geographica Indiana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 976 download events in this period)
+Total number of records downloaded: 286
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 9
+	Country: Uganda ; Times: 1
+	Country: Fiji ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-24 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "country:&#34;bermuda&#34;" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+
+
+End of report.
