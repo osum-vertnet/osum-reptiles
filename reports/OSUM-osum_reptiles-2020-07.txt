@@ -1,0 +1,131 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 863
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 63
+	Country: Brazil ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Australia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-08 ; Times: 4
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-20 ; Times: 8
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 3
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-01 ; Times: 3
+	Date: 2020-07-05 ; Times: 12
+	Date: 2020-07-29 ; Times: 4
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-16 ; Times: 6
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-07 ; Times: 6
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Ohio&#34; (constrictor)" ; Times: 1
+	Query: "crotalus lepidus lepidus" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 2
+	Query: "stateprovince:&#34;Ohio&#34; (contortrix)" ; Times: 4
+	Query: "sternotherus MO" ; Times: 1
+	Query: "genus:Opheodrys stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "crotalus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "(thamnophis) institutioncode:OSUM" ; Times: 1
+	Query: "Storeria Tennessee" ; Times: 1
+	Query: "Agkistrodon contortrix laticinctus locality:texas" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "Crotalus pyrrhus riverside" ; Times: 1
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;Ohio&#34; (Clonophis)" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Sternotherus odoratus Braxton West Virginia" ; Times: 1
+	Query: "sistrurus ravus" ; Times: 1
+	Query: "genus:Terrapene county:&#34;Randolph&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Chrysemys scripta mappable:1" ; Times: 1
+	Query: "genus:Graptemys stateprovince:&#34;Kentucky&#34;" ; Times: 6
+	Query: "Lampropeltis getula stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 7
+	Query: "stateprovince:&#34;Ohio&#34; (Clonophis)" ; Times: 1
+	Query: "Nerodia Missouri" ; Times: 1
+	Query: "specificepithet:geographica genus:Graptemys stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Apalone county:&#34;crawford&#34;" ; Times: 2
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "Lampropeltis stateprovince:&#34;Ohio&#34; (niger nigra)" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; (lampropeltis) AND (triangulum)" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "(Clonophis)" ; Times: 1
+	Query: "opheodrys vernalis wisconsin" ; Times: 1
+	Query: "genus:Graptemys stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "Pantherophis vulpinus" ; Times: 1
+	Query: "Sternotherus odoratus West Virginia" ; Times: 1
+	Query: "Lampropeltis triangulum elapsoides" ; Times: 2
+	Query: "stateprovince:&#34;Ohio&#34; (lampropeltis)" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "sternotherus peltifer" ; Times: 3
+	Query: "Nerodia MO" ; Times: 1
+	Query: "Tantilla oolitica" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 1
+	Query: "Pseudemys Ohio" ; Times: 3
+	Query: "Agkistrodon contortrix laticinctus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 940 download events in this period)
+Total number of records downloaded: 1677
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "elapidae" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "Natricidae" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; (contortrix)" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "opheodrys vernalis wisconsin" ; Times: 1
+
+
+End of report.
