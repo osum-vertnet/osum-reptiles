@@ -1,0 +1,69 @@
+Report for Institution Code OSUM, Resource osum_reptiles
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 81
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Switzerland ; Times: 2
+	Country: Sweden ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 3
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-17 ; Times: 2
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 5
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 7
+	Date: 2020-06-28 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Clonophis Kirtlandii" ; Times: 1
+	Query: "catalognumber:2021 institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "scientificname:emydoidea blandingii" ; Times: 19
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brown&#34; stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Tropidophis" ; Times: 2
+	Query: "genus:Tantilla stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Opheodrys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:striatula genus:Virginia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 474 download events in this period)
+Total number of records downloaded: 49
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "raccoon" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
